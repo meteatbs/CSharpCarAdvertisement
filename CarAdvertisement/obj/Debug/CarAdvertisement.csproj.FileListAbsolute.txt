@@ -1,0 +1,9 @@
+C:\Users\metea\source\repos\CarAdvertisement\CarAdvertisement\bin\Debug\CarAdvertisement.exe.config
+C:\Users\metea\source\repos\CarAdvertisement\CarAdvertisement\bin\Debug\CarAdvertisement.exe
+C:\Users\metea\source\repos\CarAdvertisement\CarAdvertisement\bin\Debug\CarAdvertisement.pdb
+C:\Users\metea\source\repos\CarAdvertisement\CarAdvertisement\obj\Debug\CarAdvertisement.csprojAssemblyReference.cache
+C:\Users\metea\source\repos\CarAdvertisement\CarAdvertisement\obj\Debug\CarAdvertisement.Form1.resources
+C:\Users\metea\source\repos\CarAdvertisement\CarAdvertisement\obj\Debug\CarAdvertisement.Properties.Resources.resources
+C:\Users\metea\source\repos\CarAdvertisement\CarAdvertisement\obj\Debug\CarAdvertisement.csproj.GenerateResource.cache
+C:\Users\metea\source\repos\CarAdvertisement\CarAdvertisement\obj\Debug\CarAdvertisement.exe
+C:\Users\metea\source\repos\CarAdvertisement\CarAdvertisement\obj\Debug\CarAdvertisement.pdb
